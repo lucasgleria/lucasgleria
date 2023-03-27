@@ -2,7 +2,6 @@
 ##
 
 <div>  
-    <img align="right" height="163em" src="https://github-readme-stats.vercel.app/api?username=luleria&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   
 - 💼 Atualmente trabalhando como freelancer.
 - 📊 Cursando **Banco de Dados.**
