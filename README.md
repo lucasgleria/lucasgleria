@@ -2,6 +2,7 @@
 ##
 
 <div>  
+  <img align="right" height="163em" src="https://github-readme-stats.vercel.app/api?username=lucasgleria&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   
 - 💼 Atualmente trabalhando como freelancer.
 - 📊 Cursando **Banco de Dados.**
