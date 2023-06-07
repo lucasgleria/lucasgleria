@@ -7,8 +7,7 @@
 - 💼 Atualmente trabalhando como freelancer.
 - 📊 Cursando Banco de Dados.
 - 💻 2022 formado como técncio em IT.
-- ⌨ Experiência com Full-Stack e UX.
-- 📋 Experiência com Análise de CRM.
+- ⌨ Experiência com Full-Stack e Análise de CRM.
 - 📙 Conhecimento relevante HubSpot e *básico* Rubeus.
 - 🔑 Designer, manutentor e desenvolvedor em servidores Discord.
 - 💞 Amante da tecnologia.
