@@ -32,6 +32,6 @@
 <img align="left" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="left" alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left" height="30" width="100" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/node-plain.svg">
+<img align="left" height="30" width="100" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 <br>
     
