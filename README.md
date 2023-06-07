@@ -9,7 +9,7 @@
 - 💻 2022 formado como técncio em IT.
 - ⌨ Experiência com Full-Stack e Análise de CRM.
 - 📙 Conhecimento relevante HubSpot e *básico* Rubeus.
-- 🔑 Designer, manutentor e desenvolvedor em servidores Discord.
+- 🔑 B2 English Level.
 - 💞 Amante da tecnologia.
 
  # 📫 Contate-me! 
