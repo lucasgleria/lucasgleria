@@ -5,10 +5,10 @@
   <img align="right" height="163em" src="https://github-readme-stats.vercel.app/api?username=lucasgleria&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   
 - 💼 Atualmente trabalhando como freelancer.
-- 📊 Cursando **Banco de Dados.**
+- 📊 Cursando Banco de Dados.
 - 💻 2022 formado como técncio em IT.
-- ⌨ Experiência com Front-End e UX.
-- 📋 Estagiei como Analista de CRM.
+- ⌨ Experiência com Full-Stack e UX.
+- 📋 Experiência com Análise de CRM.
 - 📙 Conhecimento relevante HubSpot e *básico* Rubeus.
 - 🔑 Designer, manutentor e desenvolvedor em servidores Discord.
 - 💞 Amante da tecnologia.
