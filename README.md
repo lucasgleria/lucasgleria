@@ -24,7 +24,7 @@
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   -->
 
-# Minhas linguagens de marcação/estilização mais utilizadas 
+<h2> Minhas linguagens de marcação/estilização mais utilizadas </h2>
 <img align="left" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
