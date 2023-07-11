@@ -29,13 +29,13 @@
 <img align="left" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="left" alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+<br>
 
 # Meus frameworks mais utilizadas 
 <img align="left" alt="mysql-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 <img align="left" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 <img align="left" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-
+<br>
 
 # Minhas linguagens de banco de dados mais utilizadas 
 <img align="left" alt="mysql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
