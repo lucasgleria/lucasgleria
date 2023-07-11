@@ -22,6 +22,7 @@
       <h2>Linguagens de marcação/estilização mais utilizadas</h2>
       <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
     </td>
     <td>
       <h2>Linguagens de programação mais utilizadas</h2>
@@ -35,11 +36,13 @@
       <img alt="django-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
       <img height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
       <img height="30" width="40" alt="jquery-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+      <img height="30" width="40" alt="jquery-icon" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg">
     </td>
     <td>
       <h2>Linguagens de banco de dados mais utilizadas</h2>
       <img alt="mysql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <img alt="postgresql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+      <img alt="postgresql-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
     </td>
   </tr>
 </table>
