@@ -32,21 +32,33 @@
   </tr>
   <tr>
     <td>
-      <h2>Frameworks mais utilizados</h2>
-      <img alt="django-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-      <img height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-      <img height="30" width="40" alt="jquery-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-      <img height="30" width="40" alt="jquery-icon" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg">
-    </td>
-    <td>
-      <h2>Linguagens de banco de dados mais utilizadas</h2>
+      <h2>SGBDs e linguagens de banco de dados mais utilizadas</h2>
+        <ul><h4>SQL</h4>  
       <img alt="mysql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <img alt="postgresql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-      <img alt="postgresql-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+        </ul>
+        <ul><h4>NoSQL</h4>
+      <img alt="mongodb-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+        </ul>
     </td>
+  <td>
+      <h2>Outras linguagens e tecnologias mais utilizadas</h2>
+        <ul><h4>Frameworks</h4> 
+      <img alt="django-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+      <img height="30" width="40" alt="jquery-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+        </ul>
+        <ul><h4>Bibliotecas</h4>
+      <img height="30" width="40" alt="handlebars-icon" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg">
+        </ul>
+    </ul>
+        <ul><h4>Outros</h4>
+      <img height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+        </ul>
+  </td>
   </tr>
+    
+    
 </table>
-
 
 # 📫 Contate-me! 
 
