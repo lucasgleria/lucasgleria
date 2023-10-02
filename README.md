@@ -1,4 +1,4 @@
-## Hello World! Sou Lucas Leria e esse é meu principal portfólio de projetos. 
+# Hello World! 
 
 <div>
   <div>  
@@ -14,25 +14,26 @@
   
   
 
-# Meus estudos:
+# Meu Porfólio:
   
 <table>
   <tr>
     <td>
-      <h2>Linguagens de marcação/estilização mais utilizadas</h2>
+      <h2>Linguagens de marcação/estilização utilizadas</h2>
       <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+      <img height="30" width="40" alt="bootstrap-icon" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
     </td>
     <td>
-      <h2>Linguagens de programação mais utilizadas</h2>
+      <h2>Linguagens de programação utilizadas</h2>
       <img alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img height="30" width="40" alt="php-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
     </td>
   </tr>
   <tr>
     <td>
-      <h2>SGBDs e linguagens de banco de dados mais utilizadas</h2>
+      <h2>SGBDs e linguagens de banco de dados utilizadas</h2>
         <ul><h4>SQL</h4>  
       <img alt="mysql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <img alt="postgresql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -42,7 +43,7 @@
         </ul>
     </td>
   <td>
-      <h2>Outras linguagens e tecnologias mais utilizadas</h2>
+      <h2>Outras linguagens e tecnologias utilizadas</h2>
         <ul><h4>Frameworks</h4> 
       <img alt="django-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
       <img height="30" width="40" alt="jquery-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
