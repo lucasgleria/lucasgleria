@@ -6,7 +6,7 @@
     
   - 💼 Atualmente trabalhando como freelancer.
   - 📊 Cursando Banco de Dados.
-  - 💻 2022 formado como técncio em IT.
+  - 💻 2022 formado como técnico em IT.
   - ⌨ Experiência com Full-Stack e Análise de CRM.
   - 📙 Conhecimento relevante HubSpot e *básico* Rubeus.
   - 💞 Amante da tecnologia.
