@@ -32,16 +32,19 @@
     </td>
   </tr>
   <tr>
-    <td>
+  <td>
       <h2>SGBDs e linguagens de banco de dados utilizadas</h2>
-        <ul><h4>SQL</h4>  
+        <ul><h4>Relacional</h4>  
+      <img alt="sqlite-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+        </ul>
+        <ul><h4>Relacional Multi-modelo</h4>  
       <img alt="mysql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <img alt="postgresql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
         </ul>
-        <ul><h4>NoSQL</h4>
+        <ul><h4>Não Relacional Orientado a documentos</h4>
       <img alt="mongodb-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
         </ul>
-    </td>
+  </td>
   <td>
       <h2>Outras linguagens e tecnologias utilizadas</h2>
         <ul><h4>Frameworks</h4> 
@@ -52,14 +55,12 @@
       <img height="30" width="40" alt="handlebars-icon" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg">
       <img height="30" width="60" alt="handlebars-icon" src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png">
         </ul>
-    </ul>
+        </ul>
         <ul><h4>Outros</h4>
       <img height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
         </ul>
   </td>
-  </tr>
-    
-    
+  </tr> 
 </table>
 
 # 📫 Contate-me! 
