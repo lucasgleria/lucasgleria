@@ -53,6 +53,7 @@
         </ul>
         <ul><h4>Bibliotecas</h4>
       <img height="30" width="40" alt="handlebars-icon" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg">
+      <img height="30" width="40" alt="handlebars-icon" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
       <img height="30" width="60" alt="handlebars-icon" src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png">
         </ul>
         </ul>
