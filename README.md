@@ -27,8 +27,9 @@
     <td>
       <h2>Linguagens de programação utilizadas</h2>
       <img alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img height="30" width="40" alt="php-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+      <img height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img height="30" width="40" alt="php-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <img height="30" width="40" alt="php-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     </td>
   </tr>
   <tr>
