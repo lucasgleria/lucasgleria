@@ -19,7 +19,7 @@
 
 ## ⚙ Technologies most used
 
-![My Technologies](https://skillicons.dev/icons?i=html,css,md,bootstrap,js,py,php,nodejs,react,django,jquery,mysql,sqlite,postgres,mongodb)
+![My Technologies](https://skillicons.dev/icons?i=md,html,css,bootstrap,js,py,php,nodejs,react,django,jquery,mysql,sqlite,postgres,mongodb)
 
 ## 🛠 Tools most used
 
