@@ -19,11 +19,11 @@
 
 ## ⚙ Technologies most used
 
-![My Technologies](https://skillicons.dev/icons?i=md,html,css,bootstrap,js,py,php,nodejs,react,django,jquery,mysql,sqlite,postgres,mongodb)
+![My Technologies](https://skillicons.dev/icons?i=md,html,css,bootstrap,js,py,php,nodejs,react,django,jquery,mysql,sqlite,postgres,mongodb&theme=dark)
 
 ## 🛠 Tools most used
 
-![My Tools](https://skillicons.dev/icons?i=discord,github,git,figma,vscode,androidstudio,gradle,planetscale,prisma,vercel)
+![My Tools](https://skillicons.dev/icons?i=discord,github,git,figma,vscode,androidstudio,gradle,planetscale,prisma,vercel&theme=dark)
 
 
 ## 📫 Contact
