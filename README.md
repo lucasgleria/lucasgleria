@@ -10,7 +10,7 @@
   - 💼 Currently working as a freelancer.
   - 📊 Studying Database at UNESA.
   - 💻 2022 IT technician graduate.
-  - ⌨ Full-stack and CRM analysis experience.
+  - ⌨ CRM analysis experience.
   - 📙 Relevant knowledge of HubSpot and *basic* Rubeus.
   - 💞 Tecnology lover.
   - 🔑 B2 CEFR English Level.
@@ -19,14 +19,22 @@
 
 ## ⚙ Technologies most used
 
-![My Technologies](https://skillicons.dev/icons?i=md,html,css,bootstrap,js,py,php,nodejs,react,django,jquery,mysql,sqlite,postgres,mongodb&theme=dark)
+![My Technologies](https://skillicons.dev/icons?i=md,html,css,bootstrap,py,mysql,sqlite,postgres&theme=dark)
+
+## ⚙ Familiarized technologies 
+
+![My Technologies 2](https://skillicons.dev/icons?i=java,js,php,nodejs,react,r,django,jquery,tailwind,mongodb&theme=dark)
 
 ## 🛠 Tools most used
 
-![My Tools](https://skillicons.dev/icons?i=discord,github,git,figma,vscode,androidstudio,gradle,planetscale,prisma,vercel&theme=dark)
+![My Tools](https://skillicons.dev/icons?i=discord,github,git,figma,vscode&theme=dark)
+
+## 🛠 Familiarized tools 
+
+![My Tools](https://skillicons.dev/icons?i=planetscale,prisma,vercel,codepen,replit&theme=dark)
 
 
-## 📫 Contact
+## 📫 Connect with me!
 
   <a href="https://www.linkedin.com/in/lucasleria/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
