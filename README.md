@@ -1,4 +1,20 @@
 <div align="center">
+
+## 📫 Connect with me!
+
+  <a href="https://www.linkedin.com/in/lucasleria/" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511945735280&text=Olá!%20acessei%20seu%20perfil%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20você!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="mailto:lucasleria17@gmail.com?subject=Ol%C3%A1!%20acessei%20seu%20perfil%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA!&body=_Escreva%20aqui%20sua%20mensagem_" target="_blank"> 
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://lucasgleria.github.io/resume/" target="_blank">
+ <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/Sgz3EyqKkP" target="_blank">
+ <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
+</div>
+<div align="center">
   
 ## 🙋‍♂️ About Me
 
@@ -34,18 +50,12 @@
 ![My Tools](https://skillicons.dev/icons?i=planetscale,prisma,vercel,codepen,replit&theme=dark)
 
 
-## 📫 Connect with me!
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/lucasleria/" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5511945735280&text=Olá!%20acessei%20seu%20perfil%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20você!" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="mailto:lucasleria17@gmail.com?subject=Ol%C3%A1!%20acessei%20seu%20perfil%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA!&body=_Escreva%20aqui%20sua%20mensagem_" target="_blank"> 
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://lucasgleria.github.io/resume/" target="_blank">
- <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a> 
-   <a href="https://discord.gg/Sgz3EyqKkP" target="_blank">
- <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
+  ##
+
+  <h3>👇🏻 Some of my projects below</h3> 
+
+
 
 </div>
