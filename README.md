@@ -9,7 +9,7 @@
     <a href="mailto:lucasleria17@gmail.com?subject=Ol%C3%A1!%20acessei%20seu%20perfil%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA!&body=_Escreva%20aqui%20sua%20mensagem_" target="_blank"> 
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://lucasgleria.github.io/resume/" target="_blank">
- <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a> 
+ <img src="https://img.shields.io/badge/Currículo-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/Sgz3EyqKkP" target="_blank">
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
