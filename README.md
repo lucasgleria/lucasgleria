@@ -2,8 +2,8 @@
   
 # Hello, I'm Lucas Leria!
 
-<img width=270 src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgleria&theme=dark&hide_border=false" alt="Github Stats"/>  
-<img width=250 src="https://github-readme-stats.vercel.app/api?username=lucasgleria&theme=dark&rank_icon=github&ring_color=FFA500"/>
+<img width=290 src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgleria&theme=dark&hide_border=false" alt="Github Stats"/>  
+<img width=270 src="https://github-readme-stats.vercel.app/api?username=lucasgleria&theme=dark&rank_icon=github&ring_color=FFA500"/>
 
 
 ## About Me
