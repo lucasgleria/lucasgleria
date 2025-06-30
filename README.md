@@ -49,6 +49,7 @@ class Developer:
 <a href="https://api.whatsapp.com/send?phone=5511945735280&text=Olá!%20acessei%20seu%20perfil%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20você!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/Sgz3EyqKkP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://lucasgleria.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/Curriculum-FF5722?style=plastic&logo=todoist&logoColor=white" target="_blank"></a> 
+<a href="https://chat-lleria.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Curriculum_AI-FF5722?style=plastic&logo=todoist&logoColor=white" target="_blank"></a> 
 <a href="mailto:lucasleria17@gmail.com?subject=Ol%C3%A1!%20acessei%20seu%20perfil%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA!&body=_Escreva%20aqui%20sua%20mensagem_" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
