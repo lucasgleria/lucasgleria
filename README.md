@@ -54,7 +54,6 @@ class Developer:
 
 ## Read some of my articles!
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Medium-8A2BE2" target="_blank"></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Substack-8A2BE2" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Dev.to-8A2BE2" target="_blank"></a> 
