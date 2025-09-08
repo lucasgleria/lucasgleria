@@ -52,7 +52,7 @@ class Developer:
 <a href="https://chat-lleria.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Curriculum_AI-FF5722?style=plastic&logo=todoist&logoColor=white" target="_blank"></a> 
 <a href="mailto:lucasleria17@gmail.com?subject=Ol%C3%A1!%20acessei%20seu%20perfil%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA!&body=_Escreva%20aqui%20sua%20mensagem_" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
 
-## Read some of my articles!
+## Other socials! I write articles.
 <a href="https://medium.com/@lucasleria17/" target="_blank"><img src="https://img.shields.io/badge/Medium-8A2BE2" target="_blank"></a> 
 <a href="https://lucasleria.substack.com" target="_blank"><img src="https://img.shields.io/badge/Substack-8A2BE2" target="_blank"></a> 
 <a href="https://app.daily.dev/lucasleria" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2" target="_blank"></a> 
