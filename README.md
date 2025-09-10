@@ -15,7 +15,7 @@ class Developer:
         self.name = "Lucas Leria"
         self.role = "IT Technician | Data Professional"
         self.location = "São Paulo, Brazil"
-        self.passion = "Creating solutions through technology"
+        self.passion = "Creating solutions through data"
         self.languages = ["Portuguese (Native)", "English (C1 CEFR)"]
         
     def current_focus(self):
