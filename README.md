@@ -41,7 +41,7 @@ class Developer:
 ![My Technologies](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,planetscale&theme=dark)
 
 ### Design and DevTools
-![My Technologies](https://skillicons.dev/icons?i=figma,git,vercel,docker,powerbi&theme=dark)
+![My Technologies](https://skillicons.dev/icons?i=figma,git,vercel,docker&theme=dark)
 
 ## Connect with me!
 
