@@ -35,13 +35,13 @@ class Developer:
 ![My Technologies](https://skillicons.dev/icons?i=md,php,nodejs,r&theme=dark)
 
 ### Frameworks and libraries
-![My Technologies](https://skillicons.dev/icons?i=tensorflow,django,flask,fastapi,jquery,tailwind,prisma&theme=dark)
+![My Technologies](https://skillicons.dev/icons?i=tensorflow,django,flask,fastapi,jquery,tailwind,vue,vite&theme=dark)
 
 ### Databases
 ![My Technologies](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,planetscale&theme=dark)
 
 ### Design and DevTools
-![My Technologies](https://skillicons.dev/icons?i=figma,git,vercel,docker&theme=dark)
+![My Technologies](https://skillicons.dev/icons?i=figma,git,vercel,docker,powerbi&theme=dark)
 
 ## Connect with me!
 
