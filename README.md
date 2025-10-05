@@ -59,5 +59,3 @@ class Developer:
 <a href="https://dev.to/lucas_leria" target="_blank"><img src="https://img.shields.io/badge/Dev.to-8A2BE2" target="_blank"></a> 
 
 </div>
-
-<!-- commit do dia!! -->
