@@ -13,7 +13,7 @@
 class Developer:
     def __init__(self):
         self.name = "Lucas Leria"
-        self.role = "IT Technician | Data Professional"
+        self.role = "IT Technician | Data Professional | Comex"
         self.location = "São Paulo, Brazil"
         self.passion = "Creating solutions through data"
         self.languages = ["Portuguese (Native)", "English (C1 CEFR)"]
